@@ -22,6 +22,6 @@ CONCLUSION:
 Based on the analysis, Mauvie’s Store should focus on expanding its offerings in high-demand categories, particularly clothing, while exploring strategies to incentivize bulk purchasing and digital payments. 
 Catering to key customer segments, especially female shoppers and high-value customers, will be crucial for sustained growth. By understanding and responding to customer preferences and trends, the store can improve customer satisfaction, increase sales, and enhance overall business performance.
 
-Design
+
 
 
