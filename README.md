@@ -1,4 +1,4 @@
-# Mauvie-s-Store-Analysis
+# Mauvie's-Store-Analysis
 This analysis was done using Power BI, it the shopping data of Mauvie's store customers
 
 KEY INSIGHTS:
